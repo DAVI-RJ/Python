@@ -1,4 +1,4 @@
-#exercicio 4
+#cadastro e consulta de funcionarios
 
 #menu para iniciar p sistema // servidor beckend
 main = 	{   
