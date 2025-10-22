@@ -59,4 +59,4 @@ Davi Ribeiro
 Em desenvolvimento
 
 ## Licença
-Este projeto está sob a licença [sua licença aqui]
+Este projeto está sob a licença MIT
